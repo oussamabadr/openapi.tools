@@ -1338,3 +1338,12 @@
     an openapi.yaml. Provides type mapping capabilities to adjust the generated code. Gradle support.
   v2: false
   v3: true
+
+- name: Swagger Request Validator
+  category: testing
+  language: Java
+  github: https://bitbucket.org/atlassian/swagger-request-validator
+  description:
+    A Java library for validating request/responses against a OpenAPI/Swagger specification.
+  v2: true
+  v3: true
